@@ -17,24 +17,24 @@ info:
  course_start_end_dates: January 10th to March 1st, 2022
  course_prerequisites:  
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/87540573400'
- review_sessions_when: Monday, 12pm AZ 
+ class_meets_where:  'https://asu.zoom.us/j/6829300585'
+ review_sessions_when: Thursday, 7:30pm AZ 
  review_sessions_where: Zoom
  discussion_board_url: 'https://watts-college.github.io/cpp-527-spr-2022/help/'
 
 instructor:
--  name: Jesse Lecy
+-  name: David Selby
    title: Professor
-   email: jdlecy@asu.edu   
-   office_location: 'https://asu.zoom.us/j/87540573400'
-   website_url: http://www.lecy.info/
-   github_url: 'https://github.com/lecy' 
+   email: jdselby@asu.edu   
+   office_location: 'https://asu.zoom.us/j/6829300585'
+   website_url:
+   github_url: 
    twitter_url: 
-   scholar_url: https://scholar.google.com/citations?user=Ir8H4wMAAAAJ&hl=en
+   scholar_url: 
    linked_in_url:
    office_hours_time: Flexible
    office_hours_location:  Zoom
-   office_hours_app_url: 'https://calendly.com/lecy/'
+   office_hours_app_url:
    
 
 textbooks:
